@@ -3,7 +3,7 @@ import re
 import random
 import telebot
 
-BOT_TOKEN = '6965866488:AAEhPSy-tAEMlMY5LyWb3_c_MQ8u7dsZ1oQ'
+BOT_TOKEN = 'TELEGRAM-API-TOKEN-HERE'# TOKEN
 bot = telebot.TeleBot(BOT_TOKEN)
 
 @bot.message_handler(commands=['start', 'hello'])
