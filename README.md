@@ -28,7 +28,7 @@ This Telegram bot allows users to search for information on the dark web using t
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/Madhav-Sai/.git
+   https://github.com/Madhav-Sai/Telegram-bot-to-fetch-onion-links-.git
    ```
 
 2. **Install dependencies:**
